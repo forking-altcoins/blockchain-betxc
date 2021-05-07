@@ -1,1 +1,2 @@
-# blockchain-betxc
+# blockchain-betxc 
+blocks=1122401
